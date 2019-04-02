@@ -1,6 +1,6 @@
 # WitWorkers-hackathonclt2019
 
-A data-centric approach to identify key factors affecting the gaps in health care acess in Charlotte
+A data-centric approach to identify key factors affecting the gaps in health care access in Charlotte
 
 ## What it does?
 
